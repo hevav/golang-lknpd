@@ -1,4 +1,4 @@
-module github.com/Elling/golang-lknpd
+module github.com/hevav/golang-lknpd
 
 go 1.17
 
